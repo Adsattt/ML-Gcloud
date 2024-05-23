@@ -1,0 +1,5 @@
+/node_modules
+.env
+package-lock.json
+/data-test-submissions
+shaped-kite-424108-q5-8413e08f464e.json
